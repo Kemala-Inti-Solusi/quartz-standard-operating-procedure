@@ -3,10 +3,6 @@ title: Standard Operating Procedure
 date: 2025-01-07
 ---
 
-# Standard Operating Procedure
-
-A comprehensive guide to PHP and Symfony best practices for maintainable, clean code.
-
 # Contents
 
 - [[#Chaining Methods|Chaining Methods]]
