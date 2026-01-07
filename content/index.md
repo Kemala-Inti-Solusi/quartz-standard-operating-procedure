@@ -578,8 +578,9 @@ Always use type hints for parameters and return types to improve code clarity an
 > ```
 
 ---
-[!info] Author
-@galuhbudhiswara
+
+> [!info] Author
+> [@galuhbudhiswara](https://github.com/galuhbudhiswara)
 
 ---
 
