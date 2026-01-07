@@ -7,7 +7,7 @@ date: 2025-01-07
 
 A comprehensive guide to PHP and Symfony best practices for maintainable, clean code.
 
-## Contents
+# Contents
 
 - [[#Chaining Methods|Chaining Methods]]
 - [[#Validate Every Payload|Validate Every Payload]]
